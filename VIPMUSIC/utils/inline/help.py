@@ -7,8 +7,8 @@ from VIPMUSIC import app
 
 def first_page(_):
     controll_button = [
-        InlineKeyboardButton(text="๏ ᴍᴇɴᴜ ๏", callback_data=f"settingsback_helper"),
-        InlineKeyboardButton(text="๏ ɴᴇxᴛ ๏", callback_data=f"dilXaditi"),
+        InlineKeyboardButton(text="𝖬𝖾𝗇𝗎", callback_data=f"settingsback_helper"),
+        InlineKeyboardButton(text="𝖭𝖾𝗑𝗍", callback_data=f"dilXaditi"),
     ]
     first_page_menu = InlineKeyboardMarkup(
         [
